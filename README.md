@@ -11,3 +11,4 @@ The dataset used is the **Pima Indians Diabetes Database** from Kaggle/UCI:
 
  with evluation accuracy 78%
 
+ there is a simple prediction function in the end
